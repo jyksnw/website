@@ -8,7 +8,6 @@ summarylength = 10
 enableEmoji = true
 enableInlineShortcodes = true
 
-googleAnalytics = 'G-0CJJ78QEH7'
 disqusShortname = 'jason-snow'
 
 [params]
