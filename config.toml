@@ -1,11 +1,15 @@
 baseURL = 'https://jyksnw.com/'
-enableEmoji = true
-enableInlineShortcodes = true
+title = 'Jason Snow'
 languageCode = 'en-us'
+theme = 'soho'
 paginate = 5
 summarylength = 10
-theme = 'soho'
-title = 'Jason Snow'
+
+enableEmoji = true
+enableInlineShortcodes = true
+
+googleAnalytics = 'G-0CJJ78QEH7'
+disqusShortname = 'jason-snow'
 
 [params]
 author = "Jason Snow"
