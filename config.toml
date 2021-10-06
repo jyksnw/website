@@ -2,35 +2,30 @@ baseURL = 'https://jyksnw.com/'
 title = 'Jason Snow'
 languageCode = 'en-us'
 theme = 'soho'
-paginate = 5
+paginate = 10
 summarylength = 10
 
 enableEmoji = true
 enableInlineShortcodes = true
+enableRobotsTXT = true
 
 disqusShortname = 'jason-snow'
 
 [params]
 author = "Jason Snow"
-builtWith = true
 copyright = "Jason Snow"
 license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 mainSections = ["posts"]
+images = ["images/profile.png"]
 profilePicture = "images/profile.png"
-
-## Set custom theme color.
 themeColor = "#515A5A"
+builtWith = true
 
-## Set custom CSS and/or JS to override site defaults.
-# customCss = ["css/blog.css"]
-# customJs = ["js/blog.js"]
-
-## Set as many as you want.
-# [[params.socialIcons]]
-# icon = "fa-linkedin"
-# title = "Linkedin"
-# url = "#"
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/jyksnw/"
 
 [[params.socialIcons]]
 icon = "fa-github"
@@ -41,6 +36,11 @@ url = "https://github.com/jyksnw"
 icon = "fa-twitter"
 title = "Twitter"
 url = "https://twitter.com/jyksnw"
+
+[[params.socialIcons]]
+icon = "fa-at"
+title = "Email"
+url = "mailto:jason@jyksnw.com"
 
 [menu]
 
