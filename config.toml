@@ -38,7 +38,7 @@ title = "Twitter"
 url = "https://twitter.com/jyksnw"
 
 [[params.socialIcons]]
-icon = "fa-at"
+icon = "fa-telegram-plane"
 title = "Email"
 url = "mailto:jason@jyksnw.com"
 
